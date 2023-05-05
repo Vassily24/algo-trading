@@ -28,8 +28,7 @@ git clone ...
 Then once it is cloned, it is necessary to install the required packages for an optimum usage: 
 
 <pre>
-```
+
 pip install -r requirements.txt
 
-```
 </pre>
