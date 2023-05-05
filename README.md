@@ -39,6 +39,8 @@ To visualize the entire project and analysis, you can run the Jupyter Notebook w
 Jupyter Notebook algo_trading.ipynb
 </pre>
 
+There are three pre-trained ResNet-LSTM model for each cryptocurrencies are available in the model_output folder in hdf5 format.
+
 ## Strategies
 This project includes three algorithmic trading strategies:
 
