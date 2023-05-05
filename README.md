@@ -25,11 +25,11 @@ git clone ...
 </pre>
 
 
-Then once it is cloned, it is necessary to install the following packages for an optimum usage: 
+Then once it is cloned, it is necessary to install the required packages for an optimum usage: 
 
 <pre>
 ```
-pip install yfinance plotly pandas numpy matplotlib scipy tqdm tensorflow scikit-learn
+pip install -r requirements.txt
 
 ```
 </pre>
